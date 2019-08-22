@@ -1,0 +1,7 @@
+C:\Users\Mahonri\source\repos\numero mayor multiplicacion\numero mayor multiplicacion\bin\Debug\numero mayor multiplicacion.exe.config
+C:\Users\Mahonri\source\repos\numero mayor multiplicacion\numero mayor multiplicacion\bin\Debug\numero mayor multiplicacion.exe
+C:\Users\Mahonri\source\repos\numero mayor multiplicacion\numero mayor multiplicacion\bin\Debug\numero mayor multiplicacion.pdb
+C:\Users\Mahonri\source\repos\numero mayor multiplicacion\numero mayor multiplicacion\obj\Debug\numero mayor multiplicacion.csprojAssemblyReference.cache
+C:\Users\Mahonri\source\repos\numero mayor multiplicacion\numero mayor multiplicacion\obj\Debug\numero mayor multiplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Mahonri\source\repos\numero mayor multiplicacion\numero mayor multiplicacion\obj\Debug\numero mayor multiplicacion.exe
+C:\Users\Mahonri\source\repos\numero mayor multiplicacion\numero mayor multiplicacion\obj\Debug\numero mayor multiplicacion.pdb
